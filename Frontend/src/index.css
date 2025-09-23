@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: 'DireDawa';
+  src: url('/fonts/dire-dawa.ttf') format('truetype');
+       
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Nokya';
+  src: url('/fonts/Nokya.ttf') format('truetype'); 
+  font-weight: normal;
+  font-style: normal;
+}
